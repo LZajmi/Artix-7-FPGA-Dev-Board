@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the design files, documentation, and example projects for the custom **Artix-7 XC7A100T-FGG484** FPGA development board. This board is built for high-performance applications such as hardware acceleration, video processing, data communication, and FPGA-based prototyping. It includes a variety of interfaces and peripherals to support advanced FPGA design projects.
+This repository contains the design files for the custom **Artix-7 XC7A100T-FGG484** FPGA development board. This board is built for high-performance applications such as hardware acceleration, video processing, data communication, and FPGA-based prototyping. It includes a variety of interfaces and peripherals to support advanced FPGA design projects.
 
 ![Preview](https://github.com/user-attachments/assets/52b948dd-cf17-4580-91e0-16bb9e09ef52)
 
@@ -38,8 +38,6 @@ This repository contains the design files, documentation, and example projects f
   
 ## Example Projects
 
-This repository also includes example projects that demonstrate the use of various board features:
-
 - **DDR3 Memory Test**: Demonstrates interfacing with the AS4C256M16D3 DDR3 memory.
 - **HDMI Output**: A simple video output project using the HDMI 1.4 interface.
 - **PCIe Communication**: An example of using the PCIe x1 slot for data transfer.
@@ -50,11 +48,7 @@ This repository also includes example projects that demonstrate the use of vario
 
 ### Requirements
 
-- **Vivado Design Suite**: To build and program the FPGA bitstream.
-- **USB Cable**: For programming and debugging through the USB Debug interface.
-- **HDMI Cable**: For video output.
-- **PCIe x1 Slot**: If using the PCIe interface.
-- **Ethernet Cable**: For network testing.
+- **Vivado ML**: To build and program the FPGA bitstream.
 
 ### License
 - This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
