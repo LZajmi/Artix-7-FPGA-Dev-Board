@@ -5101,7 +5101,7 @@
     (property "Footprint" "TPD2E009DBZR:SOT95P237X112-3N" (at 128.27 285.42 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
-    (property "Datasheet" "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-7/sf-000145380.pdf" (at 128.27 385.42 0)
+    (property "Datasheet" "" (at 128.27 385.42 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (property "Height" "1.12" (at 128.27 585.42 0)
