@@ -1538,9 +1538,13 @@
     (uuid fd6edd23-9c24-4f5a-bc43-f00d6b6ad805)
   )
 
-  (text "Differential pairs @100 Ohms\n" (at 234.95 33.655 0)
+  (text "Differential pairs @100 Ohms\n" (at 217.17 137.16 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 63244120-84d7-40fc-bb2e-22db199ca305)
+  )
+  (text "HDMI Interface\n" (at 34.925 46.355 0)
+    (effects (font (size 7 7) (thickness 1.4) bold) (justify left bottom))
+    (uuid 951ecda6-5048-49e5-8a3b-006ed9441c62)
   )
 
   (global_label "HDMI_CEC" (shape input) (at 77.47 93.98 180) (fields_autoplaced)
