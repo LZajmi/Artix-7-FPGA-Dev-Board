@@ -36,13 +36,7 @@ This repository contains the design files for the custom **Artix-7 XC7A100T-FGG4
 | **PCIe Slot**     | PCIe x1                                   |
 | **Networking**    | Ethernet Port                             |
   
-## Example Projects
 
-- **DDR3 Memory Test**: Demonstrates interfacing with the AS4C256M16D3 DDR3 memory.
-- **HDMI Output**: A simple video output project using the HDMI 1.4 interface.
-- **PCIe Communication**: An example of using the PCIe x1 slot for data transfer.
-- **Ethernet Communication**: Demonstrates networking applications with the Ethernet port.
-- **USB Debug**: Example for programming and debugging using the USB Debug interface.
 
 ## Getting Started
 
