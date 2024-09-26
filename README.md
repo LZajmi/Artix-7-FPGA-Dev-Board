@@ -4,7 +4,7 @@
 
 This repository contains the design files for the custom **Artix-7 XC7A100T-FGG484** FPGA development board. This board is built for high-performance applications such as hardware acceleration, video processing, data communication, and FPGA-based prototyping. It includes a variety of interfaces and peripherals to support advanced FPGA design projects.
 
-![Preview](https://github.com/user-attachments/assets/52b948dd-cf17-4580-91e0-16bb9e09ef52)
+![preview2](https://github.com/user-attachments/assets/64ca6eb6-87ff-4f75-8a24-fefb9c4f97ed)
 
 ## Key Features
 
